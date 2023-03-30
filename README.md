@@ -1,5 +1,7 @@
 # Bountiful
 
+# This repository has been merged with [the main repo](https://github.com/ejektaflex/Bountiful). New updates will appear there.
+
 [![](http://cf.way2muchnoise.eu/versions/bountiful-fabric.svg)](https://minecraft.curseforge.com/projects/bountiful-fabric) [![](http://cf.way2muchnoise.eu/full_bountiful-fabric_downloads.svg)](https://minecraft.curseforge.com/projects/bountiful-fabric/files)
 
 A mod that adds bounty boards to Minecraft.
